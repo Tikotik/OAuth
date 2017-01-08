@@ -1,2 +1,2 @@
-# OAuth
-OAuth library written with KISS principle in mind so it is simple stupid.
+# F# OAuth
+OAuth library written in F# with KISS principle in mind so it is simple stupid.
