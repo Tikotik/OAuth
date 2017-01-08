@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>mveith.OAuth</id>
+    <version>1.0.0</version>
+    <title>F# OAuth</title>
+    <authors>Miroslav Veith</authors>
+    <owners>Miroslav Veith</owners>
+    <licenseUrl>https://raw.githubusercontent.com/mveith/OAuth/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/mveith/OAuth</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>OAuth library written in F# with KISS principle in mind so it is simple stupid.</description>
+    <releaseNotes>First version.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>fsharp oauth</tags>
+  </metadata>
+</package>
